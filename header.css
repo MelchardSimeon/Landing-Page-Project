@@ -41,6 +41,7 @@ img {
     height: 200px;
     object-fit: cover;
     object-position: middle;
+    padding-right: 110px;
 }
 
 .hero-section {
@@ -60,7 +61,7 @@ img {
 }
 
 .secondary-text {
-    padding-bottom: 15px;
+    padding-bottom: 18px;
 }
 
 .hero-text-only {
@@ -72,4 +73,15 @@ span {
     color: fuchsia;
 }
 
+.sign-up-button {
+    background-color: #3882f6;
+    color: white;
+    padding: 7px 20px;
+    border-radius: 7px;
+    border: none;
+    font-weight: bold;
+}
 
+.sign-up-container {
+    padding-left: 5px;
+}
