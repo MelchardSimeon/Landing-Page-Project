@@ -17,10 +17,21 @@
     font-size: 24px;
     color: #f9faf8;
     display: flex;
-    padding-left: 10px;
+    padding-left: 200px;
+    font-weight: 900;
 }
 
 .right-header {
     display: flex;
     color: white;
+    padding-right: 200px;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+}
+
+li {
+    list-style-type: none;
 }
