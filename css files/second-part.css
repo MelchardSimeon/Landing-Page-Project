@@ -1,0 +1,53 @@
+
+
+.second-part-title {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.second-image {
+    display: flex;
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 90px;
+}
+
+#toto {
+    object-position: top;
+}
+
+.boxes {
+    display: flex;
+    justify-content: center;
+    gap: 55px;
+}
+
+.box {
+    object-fit: cover;
+}
+
+#second-part-text {
+    margin: 0;
+    padding: 0;
+    color: black;
+    display: flex;
+    font-weight: 800;
+    justify-content: center;
+    gap: 160px;
+    margin-top: 20px;  
+}
+
+
+.texts {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    font-weight: 500;
+}
+
+
